@@ -1,0 +1,1 @@
+D:\identiry-ms\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

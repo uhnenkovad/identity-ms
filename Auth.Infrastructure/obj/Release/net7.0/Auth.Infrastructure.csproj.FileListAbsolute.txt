@@ -1,0 +1,17 @@
+D:\identiry-ms\Auth.Infrastructure\bin\Release\net7.0\Auth.Infrastructure.deps.json
+D:\identiry-ms\Auth.Infrastructure\bin\Release\net7.0\Auth.Infrastructure.dll
+D:\identiry-ms\Auth.Infrastructure\bin\Release\net7.0\Auth.Infrastructure.pdb
+D:\identiry-ms\Auth.Infrastructure\bin\Release\net7.0\Auth.Application.dll
+D:\identiry-ms\Auth.Infrastructure\bin\Release\net7.0\Auth.Domain.dll
+D:\identiry-ms\Auth.Infrastructure\bin\Release\net7.0\Auth.Application.pdb
+D:\identiry-ms\Auth.Infrastructure\bin\Release\net7.0\Auth.Domain.pdb
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.csproj.AssemblyReference.cache
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.AssemblyInfoInputs.cache
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.AssemblyInfo.cs
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.csproj.CoreCompileInputs.cache
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.csproj.CopyComplete
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.dll
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\refint\Auth.Infrastructure.dll
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\Auth.Infrastructure.pdb
+D:\identiry-ms\Auth.Infrastructure\obj\Release\net7.0\ref\Auth.Infrastructure.dll

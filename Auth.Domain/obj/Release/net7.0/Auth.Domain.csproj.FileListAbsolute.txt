@@ -1,0 +1,12 @@
+D:\identiry-ms\Auth.Domain\bin\Release\net7.0\Auth.Domain.deps.json
+D:\identiry-ms\Auth.Domain\bin\Release\net7.0\Auth.Domain.dll
+D:\identiry-ms\Auth.Domain\bin\Release\net7.0\Auth.Domain.pdb
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\Auth.Domain.csproj.AssemblyReference.cache
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\Auth.Domain.AssemblyInfoInputs.cache
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\Auth.Domain.AssemblyInfo.cs
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\Auth.Domain.csproj.CoreCompileInputs.cache
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\Auth.Domain.dll
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\refint\Auth.Domain.dll
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\Auth.Domain.pdb
+D:\identiry-ms\Auth.Domain\obj\Release\net7.0\ref\Auth.Domain.dll

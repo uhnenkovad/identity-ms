@@ -1,0 +1,12 @@
+name: dockercompose2856530033221622396
+services:
+  auth.api:
+    build:
+      context: D:\identiry-ms
+      dockerfile: Auth.Api/Dockerfile
+    image: authapi
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose2856530033221622396_default

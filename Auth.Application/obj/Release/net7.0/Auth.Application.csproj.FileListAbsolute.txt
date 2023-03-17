@@ -1,0 +1,15 @@
+D:\identiry-ms\Auth.Application\bin\Release\net7.0\Auth.Application.deps.json
+D:\identiry-ms\Auth.Application\bin\Release\net7.0\Auth.Application.dll
+D:\identiry-ms\Auth.Application\bin\Release\net7.0\Auth.Application.pdb
+D:\identiry-ms\Auth.Application\bin\Release\net7.0\Auth.Domain.dll
+D:\identiry-ms\Auth.Application\bin\Release\net7.0\Auth.Domain.pdb
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.csproj.AssemblyReference.cache
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.AssemblyInfoInputs.cache
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.AssemblyInfo.cs
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.csproj.CoreCompileInputs.cache
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.csproj.CopyComplete
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.dll
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\refint\Auth.Application.dll
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\Auth.Application.pdb
+D:\identiry-ms\Auth.Application\obj\Release\net7.0\ref\Auth.Application.dll
